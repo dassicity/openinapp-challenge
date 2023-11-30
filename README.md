@@ -26,11 +26,11 @@ Clone this repository and run
 >npm install
 
 to install all the dependencies. After that you need to create a file named **.env** and then store the following information there -
->PORT=<Your-desired-port-number\>
-CLIENT_ID=<Your-client-id\>
-CLIENT_SECRET=\<Your-client-secret>
-REDIRECT_URI=\<Your-redirect-URI>
-REFRESH_TOKEN=\<Your-refresh-token>
+>PORT=\<Your-desired-port-number>
+>CLIENT_ID=\<Your-client-id>
+>CLIENT_SECRET=\<Your-client-secret>
+>REDIRECT_URI=\<Your-redirect-URI>
+>EFRESH_TOKEN=\<Your-refresh-token>
 
 You can get these after you sign into google cloud console and then creating new credentials.
 
